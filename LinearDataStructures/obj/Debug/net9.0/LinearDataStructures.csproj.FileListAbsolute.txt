@@ -1,0 +1,14 @@
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\bin\Debug\net9.0\LinearDataStructures.exe
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\bin\Debug\net9.0\LinearDataStructures.deps.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\bin\Debug\net9.0\LinearDataStructures.runtimeconfig.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\bin\Debug\net9.0\LinearDataStructures.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\bin\Debug\net9.0\LinearDataStructures.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\obj\Debug\net9.0\LinearDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\obj\Debug\net9.0\LinearDataStructures.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\obj\Debug\net9.0\LinearDataStructures.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\obj\Debug\net9.0\LinearDataStructures.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\obj\Debug\net9.0\LinearDataStructures.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\obj\Debug\net9.0\refint\LinearDataStructures.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\obj\Debug\net9.0\LinearDataStructures.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\obj\Debug\net9.0\LinearDataStructures.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LinearDataStructures\obj\Debug\net9.0\ref\LinearDataStructures.dll
