@@ -1,0 +1,14 @@
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net9.0\SortingAlgorithmsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net9.0\SortingAlgorithmsApp.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net9.0\SortingAlgorithmsApp.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net9.0\SortingAlgorithmsApp.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\bin\Debug\net9.0\SortingAlgorithmsApp.exe
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\bin\Debug\net9.0\SortingAlgorithmsApp.deps.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\bin\Debug\net9.0\SortingAlgorithmsApp.runtimeconfig.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\bin\Debug\net9.0\SortingAlgorithmsApp.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\bin\Debug\net9.0\SortingAlgorithmsApp.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net9.0\SortingAlgorithmsApp.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net9.0\refint\SortingAlgorithmsApp.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net9.0\SortingAlgorithmsApp.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net9.0\SortingAlgorithmsApp.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net9.0\ref\SortingAlgorithmsApp.dll
