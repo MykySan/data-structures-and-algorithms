@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnhFQHG2MHU=",
+  "success": true,
+  "projectFilePath": "E:\\Учёба\\Programming\\Projects\\msFS\\DataStructuresAndAlgorithms\\ExpirationPolicies\\ExpirationPolicies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tpec\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.5\\microsoft.extensions.caching.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\tpec\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\9.0.5\\microsoft.extensions.caching.stackexchangeredis.9.0.5.nupkg.sha512",
+    "C:\\Users\\tpec\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "C:\\Users\\tpec\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\tpec\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.5\\microsoft.extensions.logging.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\tpec\\.nuget\\packages\\microsoft.extensions.options\\9.0.5\\microsoft.extensions.options.9.0.5.nupkg.sha512",
+    "C:\\Users\\tpec\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.5\\microsoft.extensions.primitives.9.0.5.nupkg.sha512",
+    "C:\\Users\\tpec\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\tpec\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\tpec\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
