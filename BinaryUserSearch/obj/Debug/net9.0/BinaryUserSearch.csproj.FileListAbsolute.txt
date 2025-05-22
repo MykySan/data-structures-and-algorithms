@@ -1,0 +1,17 @@
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\bin\Debug\net9.0\BinaryUserSearch.exe
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\bin\Debug\net9.0\BinaryUserSearch.deps.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\bin\Debug\net9.0\BinaryUserSearch.runtimeconfig.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\bin\Debug\net9.0\BinaryUserSearch.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\bin\Debug\net9.0\BinaryUserSearch.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\bin\Debug\net9.0\System.Net.Http.Json.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.csproj.AssemblyReference.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\BinaryUs.157B3D21.Up2Date
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\refint\BinaryUserSearch.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\BinaryUserSearch.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\BinaryUserSearch\obj\Debug\net9.0\ref\BinaryUserSearch.dll
