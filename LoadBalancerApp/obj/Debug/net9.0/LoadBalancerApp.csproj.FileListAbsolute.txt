@@ -1,0 +1,15 @@
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.sourcelink.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\bin\Debug\net9.0\LoadBalancerApp.exe
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\bin\Debug\net9.0\LoadBalancerApp.deps.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\bin\Debug\net9.0\LoadBalancerApp.runtimeconfig.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\bin\Debug\net9.0\LoadBalancerApp.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\bin\Debug\net9.0\LoadBalancerApp.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\obj\Debug\net9.0\refint\LoadBalancerApp.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\obj\Debug\net9.0\LoadBalancerApp.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\LoadBalancerApp\obj\Debug\net9.0\ref\LoadBalancerApp.dll
