@@ -1,0 +1,15 @@
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\bin\Debug\net9.0\AsyncApp.exe
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\bin\Debug\net9.0\AsyncApp.deps.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\bin\Debug\net9.0\AsyncApp.runtimeconfig.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\bin\Debug\net9.0\AsyncApp.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\bin\Debug\net9.0\AsyncApp.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.sourcelink.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\obj\Debug\net9.0\refint\AsyncApp.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\obj\Debug\net9.0\AsyncApp.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\AsyncApp\obj\Debug\net9.0\ref\AsyncApp.dll
