@@ -1,0 +1,15 @@
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\bin\Debug\net9.0\GraphTraversal.exe
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\bin\Debug\net9.0\GraphTraversal.deps.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\bin\Debug\net9.0\GraphTraversal.runtimeconfig.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\bin\Debug\net9.0\GraphTraversal.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\bin\Debug\net9.0\GraphTraversal.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\obj\Debug\net9.0\GraphTraversal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\obj\Debug\net9.0\GraphTraversal.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\obj\Debug\net9.0\GraphTraversal.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\obj\Debug\net9.0\GraphTraversal.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\obj\Debug\net9.0\GraphTraversal.sourcelink.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\obj\Debug\net9.0\GraphTraversal.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\obj\Debug\net9.0\refint\GraphTraversal.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\obj\Debug\net9.0\GraphTraversal.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\obj\Debug\net9.0\GraphTraversal.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\GraphTraversal\obj\Debug\net9.0\ref\GraphTraversal.dll
