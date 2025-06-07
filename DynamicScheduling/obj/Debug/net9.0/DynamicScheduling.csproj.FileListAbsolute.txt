@@ -1,0 +1,15 @@
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\bin\Debug\net9.0\DynamicScheduling.exe
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\bin\Debug\net9.0\DynamicScheduling.deps.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\bin\Debug\net9.0\DynamicScheduling.runtimeconfig.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\bin\Debug\net9.0\DynamicScheduling.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\bin\Debug\net9.0\DynamicScheduling.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\obj\Debug\net9.0\DynamicScheduling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\obj\Debug\net9.0\DynamicScheduling.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\obj\Debug\net9.0\DynamicScheduling.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\obj\Debug\net9.0\DynamicScheduling.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\obj\Debug\net9.0\DynamicScheduling.sourcelink.json
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\obj\Debug\net9.0\DynamicScheduling.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\obj\Debug\net9.0\refint\DynamicScheduling.dll
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\obj\Debug\net9.0\DynamicScheduling.pdb
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\obj\Debug\net9.0\DynamicScheduling.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\msFS\DataStructuresAndAlgorithms\DynamicScheduling\obj\Debug\net9.0\ref\DynamicScheduling.dll
